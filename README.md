@@ -1,4 +1,7 @@
 # Azure-storage-website
+
+Watch me build this lab here! https://www.loom.com/share/ce80e91f9e64451cbbe404df2d6607e7
+
 Create a storage website with Microsoft Azure
 
 # 🚀 Azure Static Website Setup Guide
